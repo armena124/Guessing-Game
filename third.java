@@ -228,7 +228,5 @@ public class third extends JFrame
         game.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         game.setVisible(true);
     }
-
-
-
+    
 }
